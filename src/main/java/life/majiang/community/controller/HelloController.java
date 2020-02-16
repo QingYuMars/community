@@ -12,4 +12,9 @@ public class HelloController {
         model.addAttribute("name",name);
         return "hello";
     }
+
+    @GetMapping("/index")
+    public String index(){
+        return "index";
+    }
 }
