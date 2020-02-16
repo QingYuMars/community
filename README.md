@@ -19,6 +19,9 @@ java -jar target/community-0.0.1-SNAPSHOT.jar
 6. 访问项目
 ```
 http://localhost:8887
+```
+
+
 ## 资料
 [Spring 文档](https://spring.io/guides)    
 [Spring Web](https://spring.io/guides/gs/serving-web-content/)   
